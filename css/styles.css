@@ -445,14 +445,13 @@ display: flex;
 align-items: baseline;
 }
 
-.soc-footer {
-    margin-left: 120px;
+.footer-main {
+    margin-right: 120px;
 }
 
 .footer-link-list {
     display: flex;
     gap: 16px;
-    margin-top: 16px;
 }
 
 .footer-link-item {
@@ -466,6 +465,7 @@ align-items: baseline;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #fff;
+        margin-bottom: 16px;
 }
 
 .icon-link-footer:hover,
